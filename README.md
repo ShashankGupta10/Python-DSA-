@@ -1,3 +1,3 @@
 # Python-DSA
 
-Questions that i solved using python
+DSA Questions that i solved using python
